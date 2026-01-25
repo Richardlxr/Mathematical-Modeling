@@ -1,0 +1,8 @@
+# Obsidian workspace files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+/build/*
+!/build/*.pdf
+*.aux
+*.log
+*.synctex.gz
